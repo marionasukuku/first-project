@@ -1,0 +1,17 @@
+body {
+    background: blue;
+  }
+h1 {
+text-align: center;
+} 
+div {
+    text-align: left;
+    text-decoration: double;
+    color: aqua;
+}
+ img {
+    width: 500;
+    height: 600;
+    display: block;
+    margin: auto;
+ }
